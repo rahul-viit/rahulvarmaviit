@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently working on **[Your Project/Technology]**
 - 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email/Contact Method]**
+- 📫 How to reach me: **rahulvarmaviit@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/yourusername)
 - ⚡ Fun fact: **[Fun Fact About Yourself]**
 
