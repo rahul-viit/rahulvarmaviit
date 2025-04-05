@@ -14,7 +14,7 @@
 - 💬 Ask me about **[Your Expertise]**
 - 📫 How to reach me: **rahulvarmaviit@gmail.com**
 - 📄 Know about my experiences: [LinkedIn](https://linkedin.com/in/yourusername)
-- ⚡ Fun fact: **[Fun Fact About Yourself]**
+
 
 ### Connect with me:
 <div align="center">
