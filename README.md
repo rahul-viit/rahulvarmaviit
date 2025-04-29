@@ -1,34 +1,70 @@
-## Hi there! 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulvarmaviit/rahulvarmaviit/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulvarmaviit/rahulvarmaviit/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rahulvarmaviit/rahulvarmaviit/output/pacman-contribution-graph.svg">
+</picture>
 
-I'm **Rahulvama.07**, a passionate developer with a keen interest in creating dynamic web applications. My journey in coding began with a desire to bring ideas to life, and I'm here to share that passion with you!
+###
 
-## Skills & Technologies
+<p align="left">Hello World!!</p>
 
-html,css,js,react,vue,git,github,docker,aws,express,graphql,mysql,flutter,tailwind,bootstrap,nodejs
+###
 
-## Top Projects
+<p align="left">Hello World!!</p>
 
-- [Ecommerce-website](https://github.com/rahulvarmaviit/Ecommerce-website) - A fully functional e-commerce platform built with HTML and CSS. Stars: 0, Language: HTML
-- [React-Portfolio](https://github.com/rahulvarmaviit/React-Portfolio) - A personal portfolio website showcasing my projects and skills. Stars: 1, Language: JavaScript
-- [ClearX](https://github.com/rahulvarmaviit/ClearX) - A minimalistic web application designed to provide clarity in complex tasks. Stars: 0, Language: HTML
-- [Child-Therapy](https://github.com/rahulvarmaviit/Child-Therapy) - A therapy application aimed at helping children with interactive features. Stars: 1, Language: HTML
+###
 
-## GitHub Stats
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-📊 **Public Repositories**: 22  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulvarmaviit&show_icons=true&theme=radical)
+###
 
-## Recent Activity
+<img src="https://raw.githubusercontent.com/rahulvarmaviit/rahulvarmaviit/output/snake.svg" alt="Snake animation" />
 
-- **Pushed** to [Ecommerce-website](https://github.com/rahulvarmaviit/Ecommerce-website) - Updated index.txt  
-- **Closed** Pull Request on [Ecommerce-website](https://github.com/rahulvarmaviit/Ecommerce-website/pull/5)  
-- **Opened** Pull Request on [ClearX](https://github.com/rahulvarmaviit/ClearX)  
-- **Pushed** to [React-Portfolio](https://github.com/rahulvarmaviit/React-Portfolio) - Deleted src/Pages/Home.jsx
+###
 
-## Latest Blog Posts
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulvarmaviit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarmaviit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-Currently, I don't have any blog posts to share. Stay tuned for updates!
+###
 
-## Connect with Me
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-{}
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rahulvarmaviit/count.svg?"  />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulvarmaviit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulvarmaviit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
