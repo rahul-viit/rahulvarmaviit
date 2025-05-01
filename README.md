@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/rahulvarmaviit/rahulvarmaviit/output/snake.svg" alt="Snake animation" />
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/in/rahul-varma-vatsavai-62a051290/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/in/rahul-varma-vatsavai-62a051290/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 
 <div align="center">
